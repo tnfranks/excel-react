@@ -8,7 +8,7 @@
     "office-ui-fabric-react": "^5.36.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17",
+    "react-scripts": "^1.1.4",
     "styled-components": "^2.4.0"
   },
   "scripts": {
